@@ -17,8 +17,3 @@ const IndexPage = (props) => (
 
 export default IndexPage
 
-export function getStaticProps() {
-  // fetch
-
-  
-}
