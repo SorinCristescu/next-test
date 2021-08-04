@@ -11,6 +11,9 @@ const IndexPage = (props) => (
       <Link href="/service">
         <a>Service</a>
       </Link>
+      <Link href="/contact">
+        <a>Contact</a>
+      </Link>
     </p>
   </Layout>
 )
